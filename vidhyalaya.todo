@@ -1,0 +1,18 @@
+
+Vidhyala:
+  Moblile:
+    ✔ Add option to like a post @4hr @high @started(21-06-12 09:36) @done(21-06-12 11:49) @lasted(2h13m42s)
+    ☐ Add option to display all the likes in a modal
+    ☐ Add Post detail page and open it when clicking in comment button. @high @2h @started(21-06-13 07:08)
+    ☐ Add option to like a comment @3hr @high 
+    ☐ Rename Subjects to Courses @2hr @low 
+    
+  API: 
+    ✘ Use `apollo-server` instead of `express-graphql` @low  @est(1 day) @cancelled(21-06-12 11:28)
+    ☐ Convert Subject to Course @2r @low 
+      ☐ Mongodb Schema
+      ☐ Resolver
+      ☐ Query/Types
+    ✔ Add option to like a post @high @3hr @started(21-06-12 09:14) @done(21-06-12 11:22) @lasted(2h8m1s)
+    ☐ Add `likedPosts` to `User`
+    ☐ Add option to like a comment @high 
